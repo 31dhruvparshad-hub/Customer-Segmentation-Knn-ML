@@ -1,4 +1,5 @@
 🛍️ Customer Segmentation using K-Means Clustering
+
 🔍 Project Overview
 
 This project implements a customer segmentation system using K-Means clustering on real-world shopping behavior data.
