@@ -6,7 +6,8 @@ The objective is to group customers into meaningful segments based on their purc
 
 The project is designed with a **clean, modular, and production-style Machine Learning workflow**.
 
----
+![k_means_clustering_process_for_customer_segmentation_using_machine_ppt_template_ml_ss_slide01](https://github.com/user-attachments/assets/1afeb310-30b2-4216-809d-0493911b19e3)
+
 
 ## 🎯 Problem Statement
 Businesses often struggle to understand diverse customer behaviors. Treating all customers the same results in inefficient marketing strategies.
