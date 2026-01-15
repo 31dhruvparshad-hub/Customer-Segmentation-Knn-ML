@@ -64,46 +64,6 @@ Each customer is labeled with a cluster ID
 
 These clusters represent different customer segments
 
-🏗️ Project Structure
-customer-segmentation-ml/
-│
-├── src/
-│   ├── preprocess.py      # Data cleaning & scaling
-│   ├── clustering.py      # K-Means clustering logic
-│   └── evaluate.py        # (Optional) clustering evaluation
-│
-├── scripts/
-│   ├── run_preprocessing.py
-│   ├── run_clustering.py
-│   └── run_evaluation.py
-│
-├── data/
-│   ├── raw/               
-│   └── processed/         
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-
-▶️ How to Run the Project
-1. Install dependencies
-pip install -r requirements.txt
-
-2. Preprocess the data
-python scripts/run_preprocessing.py
-
-
-This generates:
-
-data/processed/processed_data.csv
-
-3. Run K-Means clustering
-python scripts/run_clustering.py
-
-
-You will see cluster labels assigned to customers.
-
-📈 Key Learnings
 
 Feature scaling is critical for distance-based algorithms
 
